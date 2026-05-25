@@ -1,0 +1,19 @@
+{
+  "movies_parsed": 2000,
+  "html_pages": 2014,
+  "categories": {
+    "hot-europe-america": 200,
+    "mainland-china": 200,
+    "hongkong-taiwan": 200,
+    "japan-korea": 200,
+    "suspense-thriller": 200,
+    "action-crime": 200,
+    "romance-comedy": 200,
+    "sci-fi-fantasy": 200,
+    "animation-variety": 200,
+    "documentary-drama": 200
+  },
+  "video_sources": 20,
+  "baidu_script_required": true,
+  "poster_paths": "1.jpg 到 150.jpg 按影片序号循环引用，素材包未含图片时不额外生成占位图。"
+}
